@@ -7,4 +7,4 @@ LAB 6:IMPLEMENT K-NEAREST NEIGHBOR CLASSIFICATION USING CLASSIFIED MANUFACTURING
 LAB 7:IMPLEMENT SUPPORT VECTOR MACHINE USING BREAST CANCER DATA(https://github.com/sirikarra/AIML/blob/main/AIML_LAB_07.ipynb)
 LAB 8:IMPLEMENT DECISION TREE CLASSIFIER USING LENDING CLUB DATA(https://github.com/sirikarra/AIML/blob/main/AIML_LAB_08.ipynb)
 LAB 9:(https://github.com/sirikarra/AIML/blob/main/AIML_Lab_09.ipynb)
-LAB 10:
+LAB 10:(https://github.com/sirikarra/AIML/blob/main/AIML_Lab_10.ipynb)
